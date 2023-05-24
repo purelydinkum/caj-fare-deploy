@@ -74,7 +74,7 @@ spec:
       - name: dockerfile
         value: Dockerfile-openjdk
       - name: manifest-git-url
-        value: git@github.com:CCChou/caj-fare-deploy.git
+        value: https://github.com/purelydinkum/caj-fare-deploy.git
       - name: manifest-git-revision
         value: main
       - name: manifest-path
